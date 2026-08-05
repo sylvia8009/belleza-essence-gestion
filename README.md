@@ -27,3 +27,24 @@ Se propone el desarrollo conceptual de una **Plataforma Web de Gestión Integral
 * **Módulo de Ficha Técnico de Clientes:** Registro digitalizado de la historia de tratamientos, alergias y notas de seguimiento.
 * **Módulo de Gestión de Recursos y Especialistas:** Asignación de personal y cabinas de atención según el tipo de servicio.
 * **Tablero de Control y Seguimiento Operativo:** Generación de reportes de servicios más solicitados e ingresos generados.
+* ---
+
+## 4. Objetivo, Alcance y Usuarios Principales
+* **Objetivo General:** Diseñar el sistema conceptual de gestión de citas para Belleza & Essence.
+* **Alcance:** Documentación de requerimientos, flujo de turnos y perfiles de usuario.
+* **Usuarios Principales:** Administrador, Especialistas (esteticistas) y Clientes.
+
+---
+
+## 5. Requisitos Priorizados
+1. **Alta Prioridad:** Validación de horario en tiempo real e historial digital de clientes.
+2. **Media Prioridad:** Recordatorios automáticos de cita y gestión de roles.
+3. **Baja Prioridad:** Panel administrativo con reportes estadísticos.
+
+---
+
+## 6. Planificación de Actividades
+* **Semana 1:** Análisis de la problemática y definición conceptual.
+* **Semana 2:** Creación del repositorio y estructura documental.
+* **Semana 3:** Trabajo colaborativo mediante ramas y Pull Request.
+* **Semana 4:** Revisión final e integración de evidencia.
