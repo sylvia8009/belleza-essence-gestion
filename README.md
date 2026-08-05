@@ -44,7 +44,7 @@ Se propone el desarrollo conceptual de una **Plataforma Web de Gestión Integral
 ---
 
 ## 6. Planificación de Actividades
-* **Semana 1:** Análisis de la problemática y definición conceptual.
-* **Semana 2:** Creación del repositorio y estructura documental.
-* **Semana 3:** Trabajo colaborativo mediante ramas y Pull Request.
-* **Semana 4:** Revisión final e integración de evidencia.
+* **Fase 1:** Análisis de la problemática y definición conceptual.
+* **Fase 2:** Creación del repositorio y estructura documental.
+* **Fase 3:** Trabajo colaborativo mediante ramas y Pull Request.
+* **Fase 4:** Revisión final e integración de evidencia.
