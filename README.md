@@ -48,3 +48,10 @@ Se propone el desarrollo conceptual de una **Plataforma Web de Gestión Integral
 * **Fase 2:** Creación del repositorio y estructura documental.
 * **Fase 3:** Trabajo colaborativo mediante ramas y Pull Request.
 * **Fase 4:** Revisión final e integración de evidencia.
+
+---
+
+## 7. Notas de Colaboración y Calidad
+* Revisión de requerimientos realizada por el colaborador.
+* Confirmación de compatibilidad con el flujo de trabajo agile.
+
