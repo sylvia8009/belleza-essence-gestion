@@ -51,7 +51,6 @@ Se propone el desarrollo conceptual de una **Plataforma Web de Gestión Integral
 
 ---
 
----
 ## 7. Notas de Colaboración y Calidad
 * Revisión de requerimientos realizada por el colaborador.
 * Confirmación de compatibilidad con el flujo de trabajo agile.
