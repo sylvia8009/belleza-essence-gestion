@@ -1,4 +1,4 @@
-# belleza-essence-gestion
+# Sistema Belleza & Essence - Version Oficial Main
 Sistema de gestión de citas y servicios para el centro de estética Belleza &amp; Essence.
 # Sistema de Gestión de Citas y Servicios — Belleza & Essence
 
