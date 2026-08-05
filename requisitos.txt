@@ -1,0 +1,18 @@
+=====================================================
+REQUISITOS DEL SISTEMA DE GESTIÓN - BELLEZA & ESSENCE
+=====================================================
+
+1. REQUISITOS FUNCIONALES (PRIORIDAD ALTA)
+------------------------------------------
+RF-01: El sistema debe permitir la reserva de citas en línea.
+RF-02: El sistema debe validar la disponibilidad de horarios en tiempo real para evitar duplicidad de turnos.
+RF-03: El sistema debe almacenar la ficha técnica del cliente (historial de tratamientos y alergias).
+
+2. REQUISITOS NO FUNCIONALES (PRIORIDAD MEDIA)
+----------------------------------------------
+RNF-01: Interfaz web intuitiva y de fácil uso para el personal de recepción y clientes.
+RNF-02: Disponibilidad del servicio en la nube con acceso desde cualquier dispositivo.
+
+3. REPORTES Y ADMINISTRACIÓN (PRIORIDAD BAJA)
+---------------------------------------------
+RA-01: Generación de reportes semanales sobre los servicios más solicitados.
