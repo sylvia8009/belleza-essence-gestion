@@ -5,11 +5,11 @@ Sistema de gestión de citas y servicios para el centro de estética Belleza &am
 ## 1. Descripción del Entorno y Diagnóstico del Problema
 El centro de estética **Belleza & Essence** es un establecimiento local dedicado a servicios especializados de cosmetología, tratamientos faciales, corporales y estética integral. 
 
-Actualmente, el control operativo se realiza de forma manual mediante agendas físicas de papel y chats de WhatsApp. Esta modalidad genera las siguientes dificultades:
-* **Citas cruzadas o duplicadas:** Falta de validación de disponibilidad en tiempo real, lo que ocasiona la sobreposición de turnos.
+Actualmente, el control operativo se realiza de forma manual mediante agendas físicas de papel y chats de WhatsApp; esta modalidad genera las siguientes dificultades:
+* **Citas cruzadas o duplicadas:** Falta de validación de disponibilidad en tiempo real, lo que ocasiona la sobreposición de turnos para una misma especialista.
 * **Tiempos de espera prolongados:** Ausencia de un flujo estandarizado para la preparación previa de insumos y equipos.
-* **Pérdida de historial de clientes:** Incapacidad de dar seguimiento a tratamientos previos, alergias y preferencias.
-* **Sin medición del desempeño operativo:** Ausencia de reportes sobre los servicios más solicitados e ingresos generados.
+* **Pérdida de historial y de las preferencias del clientes:** No se puede dar seguimiento a tratamientos previos, alergias o preferencias específicas de las usuarias.
+* **Inexistencia de estadísticas sobre el rendimiento del negocio:** Falta de reportes sobre los servicios de mayor demanda, horas pico o el rendimiento individual del personal estético.
 
 ---
 
@@ -24,6 +24,6 @@ Actualmente, el control operativo se realiza de forma manual mediante agendas f�
 Se propone el desarrollo conceptual de una **Plataforma Web de Gestión Integral** estructurada en los siguientes módulos:
 
 * **Módulo de Reserva y Agenda Digital:** Programación de citas en tiempo real con prevención de cruces de horarios.
-* **Módulo de Expediente Técnico de Clientes:** Registro digitalizado de la historia de tratamientos, alergias y notas de seguimiento.
-* **Módulo de Administración de Especialistas y Cabinas:** Gestión de turnos del personal y asignación de áreas de atención.
-* **Tablero de Gestión y Reportes Estadísticos:** Panel administrativo para monitorear servicios solicitados e indicadores clave del negocio.
+* **Módulo de Ficha Técnico de Clientes:** Registro digitalizado de la historia de tratamientos, alergias y notas de seguimiento.
+* **Módulo de Gestión de Recursos y Especialistas:** Asignación de personal y cabinas de atención según el tipo de servicio.
+* **Tablero de Control y Seguimiento Operativo:** Generación de reportes de servicios más solicitados e ingresos generados.
